@@ -5,6 +5,6 @@
 
 export const environment = {
   production: false,
-  name: 'app1',
-  url: 'http://app1.dev'
+  name: 'app2',
+  url: 'http://app2.dev'
 };
